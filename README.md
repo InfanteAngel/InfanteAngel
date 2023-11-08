@@ -12,8 +12,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=FFFF00)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 <h2> 🤝🏻 Contact Me Here</h2>
 <a href="https://www.bing.com/ck/a?!&&p=cff3fbd72ca87a2fJmltdHM9MTY4MzI0NDgwMCZpZ3VpZD0zNGUzMTAyNC1hY2U4LTZhY2UtMmQxZi0wMjc5YWQ3ZjZiZmEmaW5zaWQ9NTIwNw&ptn=3&hsh=3&fclid=34e31024-ace8-6ace-2d1f-0279ad7f6bfa&psq=google+gmail+log+in+page&u=a1aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL2xvZ2luP3NlcnZpY2U9bWFpbA&ntb=1"><img src="https://img.shields.io/badge/-infanteangel.ag@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ang.jr57"><img src="https://img.shields.io/badge/-@ang.jr57-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
